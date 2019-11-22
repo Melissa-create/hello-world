@@ -1,2 +1,3 @@
 # hello-world
 Eu quero, eu posso, eu consigo....
+Gosto de programar, mas tenho algumas dificuldades, mas sei que eu sou capaz, com muito esforço e dedicação sei que  vou conseguir
